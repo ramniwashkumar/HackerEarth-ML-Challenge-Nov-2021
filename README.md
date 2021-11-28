@@ -6,7 +6,9 @@ Credit card default risk is the chance that companies or Individuals will not be
 I had to build a machine learning model that can predict if there will be credit card default.
 
 
-<h3>Task</strong>An Overview of Solution</h3>
+<strong>Task</strong>
+
+<h3>An Overview of Solution</h3>
 our data contains columns:
 customer_id	name	age	gender	owns_car	owns_house	no_of_children	net_yearly_income	no_of_days_employed	occupation_type	total_family_members	migrant_worker	yearly_debt_payments	credit_limit	credit_limit_used(%)	credit_score	prev_defaults	default_in_last_6months	credit_card_default
 
